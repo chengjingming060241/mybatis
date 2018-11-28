@@ -1,0 +1,19 @@
+TRACE [main] 2018-11-28 13:55:15 (BaseJdbcLogger.java:165) <==    Columns: id, title, author_id
+TRACE [main] 2018-11-28 13:55:15 (BaseJdbcLogger.java:165) <==        Row: 1, admin的博客, 1
+TRACE [main] 2018-11-28 13:55:35 (BaseJdbcLogger.java:165) <==    Columns: id, title, author_id
+TRACE [main] 2018-11-28 13:55:35 (BaseJdbcLogger.java:165) <==        Row: 1, admin的博客, 1
+TRACE [main] 2018-11-28 14:15:07 (BaseJdbcLogger.java:165) <==    Columns: id, title, author_id
+TRACE [main] 2018-11-28 14:15:07 (BaseJdbcLogger.java:165) <==        Row: 1, admin的博客, 1
+TRACE [main] 2018-11-28 14:15:07 (BaseJdbcLogger.java:165) <==        Row: 2, 周杰伦, 1
+TRACE [main] 2018-11-28 14:15:07 (BaseJdbcLogger.java:165) <==        Row: 3, 周杰伦结婚了, 1
+TRACE [main] 2018-11-28 14:21:13 (BaseJdbcLogger.java:165) <==    Columns: id, title, author_id
+TRACE [main] 2018-11-28 14:21:13 (BaseJdbcLogger.java:165) <==        Row: 1, admin的博客, 1
+TRACE [main] 2018-11-28 14:22:26 (BaseJdbcLogger.java:165) <==    Columns: id, title, author_id
+TRACE [main] 2018-11-28 14:22:26 (BaseJdbcLogger.java:165) <==        Row: 1, admin的博客, 1
+TRACE [main] 2018-11-28 14:22:26 (BaseJdbcLogger.java:165) <====    Columns: id, username, password, email, bio, favouriteSection
+TRACE [main] 2018-11-28 14:22:26 (BaseJdbcLogger.java:165) <====        Row: 1, admin, admin, admin@qq.com, , JAVA
+TRACE [main] 2018-11-28 14:22:26 (BaseJdbcLogger.java:165) <====    Columns: id, blog_id, author_id, created, section, subject, draft, body
+TRACE [main] 2018-11-28 14:22:26 (BaseJdbcLogger.java:165) <====        Row: 1, 1, 1, 2018年11月26日, JAVA的未来, JAVA的未来, null, 无可限量
+TRACE [main] 2018-11-28 14:22:26 (BaseJdbcLogger.java:165) <====        Row: 2, 1, 1, 2018年11月27日, JAVA未来无可限量, JAVA未来无可限量, null, JAVA未来无可限量
+TRACE [main] 2018-11-28 14:56:48 (BaseJdbcLogger.java:165) <==    Columns: id, title, author_id, state
+TRACE [main] 2018-11-28 14:56:48 (BaseJdbcLogger.java:165) <==        Row: 3, 周杰伦结婚了, 1, ACTIVE
